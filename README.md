@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Lucas Freitas
+Matricula: 1595708
 
 ## Tela de inspeção com navegador
-
+![ys_inspeção png](https://github.com/user-attachments/assets/a60b1b7b-77e7-47ac-94d1-93fd02de7ac8)
 
 ## Tela de projeto no Replit
+![replt png](https://github.com/user-attachments/assets/3a7e1b31-e68c-425f-b915-088a46636940)
 
